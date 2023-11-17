@@ -1,0 +1,215 @@
+body {
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.icon {
+    margin-left: 2%;
+    margin-top: 23px;
+    height: 3%;
+    width: 3%;
+    float: left;
+}
+
+.navbar-brand {
+    font-size: 26px;
+    font-family: 'Agbalumo', sans-serif;
+}
+
+.nav-item {
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+#getStarted {
+    height: 45px;
+    width: 110px;
+    border: none;
+    border-radius: 45px;
+    background-color: black;
+    color: white;
+}
+
+.line {
+    border: 2px solid black;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.signin {
+    border: none;
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 45px;
+    border-radius: 45px;
+}
+
+.signup {
+    border: none;
+    margin-right: 20px;
+    text-decoration: underline;
+}
+
+.first-section {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin-left: 9%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.first-section-2 {
+    font-size: 24px;
+    margin-left: 9%;
+    margin-bottom: 0px;
+}
+
+#start-reading {
+    margin-left: 9%;
+    background-color: white;
+    color: black;
+    border: none;
+    height: 40px;
+    width: 130px;
+    border-radius: 30px;
+}
+
+.first-section-div {
+    background: linear-gradient(135deg, black 40%, blue);
+    color: white;
+}
+
+#trendicon {
+    margin-top: 12px;
+    margin-left: 9%;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#trending-title {
+    font-weight: bold;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info img {
+    margin-left: 15%;
+    width: 5%;
+    height: 5%;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.username {
+    font-size: 8px;
+}
+
+.articles {
+    margin-left: 15%;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.details {
+    margin-left: 15%;
+    margin-top: 0px;
+    color: rgb(0, 0, 0, 0.6);
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+#discover-title {
+    font-weight: bold;
+    margin-left: 15%;
+    margin-bottom: 0px;
+}
+
+.topics1 {
+    margin-left: 53%;
+}
+
+.topics2 {
+    margin-left: 30%;
+}
+
+#topics {
+    margin-bottom: 5px;
+}
+
+#more-topics {
+    text-decoration: none;
+    color: blue;
+    border: none;
+    text-align: left;
+    margin-left: 15%;
+    margin-bottom: 5px;
+}
+
+#useful-container {
+    margin-left: 15%;
+}
+
+.useful {
+    color: rgb(0, 0, 0, 0.5);
+    margin-bottom: 0px;
+}
+
+#main-articles {
+    font-size: 20px;
+}
+
+.description {
+    margin-left: 15%;
+}
+
+#article-images {
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+
+#trend-container {
+    margin-bottom: 80px;
+}
+
+#profile-pic{
+    width: 30px;
+    height: 30px;
+}
+
+#article-images {
+    width: 100px;
+    height: 100px;
+    margin-right: 25%;
+}
+
+.article-details {
+    margin-top: 8px;
+    color: rgb(0, 0, 0, 0.5);
+}
+
+#sparkle {
+    font-weight: 900;
+    font-size: 20px;
+    background-color: white;
+    color: white;
+    border-radius: 100%;
+    border: none;
+}
