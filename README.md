@@ -1,7 +1,7 @@
 # Customized Medium.com Homepage Redesign
 
 ## Overview
-This project is a redesign of the Medium.com homepage, created as part of the Web Development Core Team Member Selection Task Round for BitByBit Club, VIT Bhopal University.
+This project is a redesign of the Medium.com homepage, created as part of the Web Development Core Team Member Selection Task Round for BitByBit Club, VIT Bhopal University. The custom medium homepage has been deployed at https://garvit-exe.github.io/medium/.
 
 ## Technologies Used
 - HTML
